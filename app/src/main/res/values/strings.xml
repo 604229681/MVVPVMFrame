@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVPVMFrame</string>
+    <string name="mobilesHint">"请输入手机号码"</string>
+    <string name="verificationCodeHint">"请输入验证码"</string>
+</resources>
